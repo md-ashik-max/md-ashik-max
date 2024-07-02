@@ -1,33 +1,46 @@
-Hi, I'm [Your Name]
+# Hi, I'm Aral Roca
 
-![Your Logo or Profile Image](URL_to_your_image)
+<div align="right">
+  <a href="https://aralroca.com/donate">
+    <img src="https://img.shields.io/badge/$-support-ff69b4.svg?style=flat" alt="Donate" />
+  </a>
+</div>
 
-I'm a Frontend Developer who loves working with JavaScript/TypeScript, particularly with React.js, Node.js, and other modern web technologies. I enjoy building web applications and contributing to open-source projects.
+<p align="center">
+  <a href="https://aralroca.com">
+    <img width="100" src="https://github.com/aralroca/aralroca.com/raw/master/public/images/logo.svg" alt="logo" />
+  </a>
+</p>
 
-### Most Used Languages
+<p align="center" style="margin: -20px 0 30px">
+   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://stackoverflow.com/users/4467741/aral-roca" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="stackoverflow" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://www.linkedin.com/in/aral-roca-gomez-3b536bb1/" target="_blank" style='margin-right:10px'>
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:contact@aralroca.com" target="_blank">
+    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/protonmail.svg" alt="email" height="22px" width="22px" />
+  </a>
+</p>
 
-![Most Used Languages](URL_to_your_language_image)
+I'm a Full-Stack developer who likes to work with JavaScript/Typescript (Preact, Next.js, TensorFlow.js, Node, Deno) Rust, Python among others. 
 
-Languages used in my public repos - passionate about JavaScript 😊
+<div align="center">
+  <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=aralroca&layout=compact&hide_title=1&card_width=300" alt="Top language used in my repos" />
+  <br />
+  <small>Languages used in my public repos - big fan of JavaScript 😛</small>
+  <br />
+  <br />
+</div>
 
-### Technologies I Work With
+A few years ago I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on Discus, StackOverflow, Spectrum, Github discussions... and creating useful content to be used by developers: libraries and articles. 
 
-- **Frontend:** React.js, HTML, CSS, Tailwind CSS, DaisyUI
-- **Backend:** Node.js, Express.js
-- **Database:** MongoDB
-- **Others:** TypeScript, JavaScript
-
-### About Me
-
-A few years ago, I realized that I wanted to focus my efforts on being useful. For this reason, I'm trying to contribute more and more to open-source projects, helping people on various platforms like Discus, StackOverflow, Spectrum, GitHub discussions, and creating useful content for developers: libraries and articles.
-
-### Connect With Me
-
-[![Twitter](URL_to_your_twitter_image)](https://twitter.com/yourusername)
-[![LinkedIn](URL_to_your_linkedin_image)](https://linkedin.com/in/yourusername)
-[![GitHub](URL_to_your_github_image)](https://github.com/yourusername)
-
-[Support Me](URL_to_your_support_image)
-
-<!-- Optionally add more sections if you have more content -->
+<br />
 
