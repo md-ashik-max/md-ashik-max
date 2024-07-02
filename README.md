@@ -49,3 +49,31 @@ A few years ago, I realized that I wanted to focus my efforts on being useful. F
     <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png" alt="instagram" height="40px" width="40px" style="filter: drop-shadow(0 0 10px #E4405F);" />
   </a>
 </p>
+
+### Technologies that I know
+<hr/>
+
+<p align="center">
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40px" width="40px" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40px" width="40px" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40px" width="40px" style="margin-right: 20px;" />
+  <img src="https://daisyui.com/favicon.ico" alt="DaisyUI" height="40px" width="40px" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" height="40px" width="40px" style="margin-right: 20px;" />
+  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="Firebase" height="40px" width="40px" style="margin-right: 20px;" />
+  <br/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d9/Node.js_logo.svg" alt="Node.js" height="40px" width="40px" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/a/a7/React-icon.svg" alt="React.js" height="40px" width="40px" style="margin-right: 20px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/64/Expressjs.png" alt="Express.js" height="40px" width="40px" style="margin-right: 20px; background-color: white; border-radius: 5px;" />
+  <img src="https://upload.wikimedia.org/wikipedia/commons/8/8e/Nextjs-logo.svg" alt="Next.js" height="40px" width="40px" style="background-color: white; border-radius: 5px;" />
+</p>
+
+### Current overview
+<hr/>
+
+<ul>
+  <li>👨‍🎓 I'm a fresher who completed a web development course at Programming Hero.</li>
+  <li>🚀 I'm exploring - Advanced motion graphics for web.</li>
+  <li>👯 I'm looking - To collaborate on open-source projects.</li>
+  <li>💬 I'm trying - To help people learn web development.</li>
+  <li>🎨 Fun fact - I love to make complex origami and I can speak 5 languages.</li>
+</ul>
