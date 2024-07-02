@@ -41,3 +41,26 @@ A few years ago, I realized that I wanted to focus my efforts on being useful. F
 
 <br />
 
+### Current Stats
+<hr/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=md-ashik-max" alt="GitHub Streak Stats" />
+  <br />
+  <br />
+</div>
+
+### Reach me out
+<hr/>
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/ashikur-rahman369">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://web.facebook.com/profile.php?id=100029061466456">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook" />
+  </a>
+  <a href="https://twitter.com/yourtwitterhandle">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" />
+  </a>
+</p>
