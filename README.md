@@ -13,9 +13,6 @@
 </p>
 
 <p align="center" style="margin: -20px 0 30px">
-   <a href="https://twitter.com/aralroca" target="_blank" style='margin-right:10px'>
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="twitter" height="22px" width="22px" />
-  </a>
   &nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/ashikur-rahman369" target="_blank" style='margin-right:10px'>
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="linkedin" height="22px" width="22px" />
@@ -33,7 +30,7 @@
 I'm a Frontend developer who likes to work with JavaScript/TypeScript (React.js, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, HTML, CSS) among others.
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amd-ashik-max)](https://github.com/md-ashik-max/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=md-ashik-max)](https://github.com/md-ashik-max/github-readme-stats)
   <br />
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
