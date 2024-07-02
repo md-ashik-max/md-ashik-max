@@ -33,7 +33,7 @@
 I'm a Frontend developer who likes to work with JavaScript/TypeScript (React.js, Node.js, Express.js, MongoDB, Tailwind CSS, DaisyUI, HTML, CSS) among others.
 
 <div align="center">
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=amd-ashik-max)](https://github.com/md-ashik-max/github-readme-stats)
   <br />
   <small>Languages used in my public repos - big fan of JavaScript 😛</small>
   <br />
