@@ -56,6 +56,7 @@ A few years ago, I realized that I wanted to focus my efforts on being useful. F
 <p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/6/61/HTML5_logo_and_wordmark.svg" alt="HTML" height="40px" width="40px" style="margin-right: 20px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/CSS3_logo_and_wordmark.svg" alt="CSS" height="40px" width="40px" style="margin-right: 20px;" />
+  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a>
   <img src="https://upload.wikimedia.org/wikipedia/commons/d/d5/Tailwind_CSS_Logo.svg" alt="Tailwind CSS" height="40px" width="40px" style="margin-right: 20px;" />
   <img src="https://daisyui.com/favicon.ico" alt="DaisyUI" height="40px" width="40px" style="margin-right: 20px;" />
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/93/MongoDB_Logo.svg" alt="MongoDB" height="40px" width="40px" style="margin-right: 20px;" />
